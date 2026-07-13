@@ -1,0 +1,6 @@
+# frozenset , they can not be modified
+s={1,2,3,4,5,6,7,8,9}
+print(s)
+
+fs=frozenset(s)
+print(fs)
